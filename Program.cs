@@ -4,15 +4,17 @@ Carta carta1 = new Carta("Pica", "Trebol", 4);
 carta1.Print();
 Console.WriteLine("***********************");
 
+// Instancia de Mazo
 Mazo newMazo = new Mazo();
 
 Console.WriteLine("**************");
-Console.WriteLine($"Total de cartas en el mazo: {newMazo.Cartas.Count}");
+Console.WriteLine($"Total de cartas en el mazo: {newMazo.Cartas.Count} cartas");
 Console.WriteLine("**************");
 
+// Bucle foreach para mostrar en la lista de Mazo las cartas existentes
 foreach (Carta carta in newMazo.Cartas)
 {
-    Console.WriteLine($"Para la carta {carta.Nombre}, su pinta es {carta.Pinta} y el número de carta es {carta.Val}");
+    Console.WriteLine($"Para la carta {carta.Nombre}, su pinta es {carta.Pinta}");
 }
 
 Carta cartaMayor = newMazo.Reparto();
