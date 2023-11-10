@@ -1,0 +1,15 @@
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/DeckOfCards/bin/Debug/net7.0/DeckOfCards
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/DeckOfCards/bin/Debug/net7.0/DeckOfCards.deps.json
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/DeckOfCards/bin/Debug/net7.0/DeckOfCards.runtimeconfig.json
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/DeckOfCards/bin/Debug/net7.0/DeckOfCards.dll
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/DeckOfCards/bin/Debug/net7.0/DeckOfCards.pdb
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/DeckOfCards/obj/Debug/net7.0/DeckOfCards.csproj.AssemblyReference.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/DeckOfCards/obj/Debug/net7.0/DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/DeckOfCards/obj/Debug/net7.0/DeckOfCards.AssemblyInfoInputs.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/DeckOfCards/obj/Debug/net7.0/DeckOfCards.AssemblyInfo.cs
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/DeckOfCards/obj/Debug/net7.0/DeckOfCards.csproj.CoreCompileInputs.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/DeckOfCards/obj/Debug/net7.0/DeckOfCards.dll
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/DeckOfCards/obj/Debug/net7.0/refint/DeckOfCards.dll
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/DeckOfCards/obj/Debug/net7.0/DeckOfCards.pdb
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/DeckOfCards/obj/Debug/net7.0/DeckOfCards.genruntimeconfig.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/DeckOfCards/obj/Debug/net7.0/ref/DeckOfCards.dll
